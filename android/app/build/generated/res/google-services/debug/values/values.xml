@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">997222894065-1bgo0q81cqtv248vnkctr2o3butricun.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">997222894065</string>
+    <string name="google_api_key" translatable="false">AIzaSyBtMrfg1GIdZMnl--M8WMMoo6dge2Gucak</string>
+    <string name="google_app_id" translatable="false">1:997222894065:android:70e3c3cd861c99841fdc50</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBtMrfg1GIdZMnl--M8WMMoo6dge2Gucak</string>
+    <string name="google_storage_bucket" translatable="false">kidcity-retailer-app.appspot.com</string>
+    <string name="project_id" translatable="false">kidcity-retailer-app</string>
+</resources>

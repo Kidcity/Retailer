@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "997222894065",
+    "project_id": "kidcity-retailer-app",
+    "storage_bucket": "kidcity-retailer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997222894065:android:70e3c3cd861c99841fdc50",
+        "android_client_info": {
+          "package_name": "com.kidcity.krp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997222894065-1bgo0q81cqtv248vnkctr2o3butricun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtMrfg1GIdZMnl--M8WMMoo6dge2Gucak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997222894065-1bgo0q81cqtv248vnkctr2o3butricun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "997222894065-618or9lgo59v8514s1gulnu5b9mq7s6p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kidcity.retailer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

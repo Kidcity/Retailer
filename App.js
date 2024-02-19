@@ -152,7 +152,7 @@ export default class App extends Component {
 
 
     this.startTimer()
-    this._getAppVersion();
+    // this._getAppVersion();
     this._getFirebaseId();
     _handleAppOpenFromBackgroundState()
     _handleAppOpenFromQuitState()
